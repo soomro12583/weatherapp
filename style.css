@@ -51,3 +51,7 @@ body{
 .search button img{
     width: 16px;
 }
+
+.img{
+    mix-blend-mode: multiply;
+}
